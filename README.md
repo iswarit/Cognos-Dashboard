@@ -1,4 +1,3 @@
-# IBM-Cognos-Project
 <h1> Analysis of Olympic games </h1>
 <p> IBM Cognos Dashboard on analysis of olympic games </p> <br>
 
